@@ -16,7 +16,7 @@ function generateLogo(response) {
         if (err) {
             return console.log(err);
         }
-        console.log(`Generated logo as svg file! `)
+        console.log(`Success! Generated logo as svg file! `)
     });
 }
 
