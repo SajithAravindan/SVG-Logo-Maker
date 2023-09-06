@@ -33,7 +33,7 @@ GIVEN a command-line application that accepts user input
 
 ## Demo
 
-[![Watch the video](./Develop/img/demo.png)](https://drive.google.com/file/d/10U3hvOV28nsPrda8Sds4EvrRY_V-FxRC/view)
+[![Watch the video](./Develop/img/demo.png)]()
 
 ## Review
 
