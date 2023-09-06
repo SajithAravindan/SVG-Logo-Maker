@@ -2,5 +2,29 @@
   "dependencies": {
     "jest": "^29.6.4",
     "svg-logo-maker": "^1.0.7"
-  }
+  },
+  "name": "svg-logo-maker",
+  "description": "This is a command-line application that takes in user input to generate a logo and save it as an SVG fileLinks to an external site.. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SajithAravindan/SVG-Logo-Maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SajithAravindan/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/SajithAravindan/SVG-Logo-Maker#readme"
 }
