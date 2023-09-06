@@ -50,4 +50,4 @@ function init() {
         });
 }
 
-init();
+init();//initialize the application
