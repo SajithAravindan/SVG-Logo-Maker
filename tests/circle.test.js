@@ -1,6 +1,6 @@
-const Circle = require('../lib/circle.js');
+const Circle = require('../lib/circle.js');//import circle class
 
-//test case for class circle
+//Unit test case for class circle
 describe('Circle', () => {
     it('given user choice og Logo shape color, Logo text, and Logo text color, should return logo svg file with ', () => {
         const circle = new Circle('green','SVG','white');

@@ -1,6 +1,6 @@
-const Triangle = require('../lib/triangle.js');
+const Triangle = require('../lib/triangle.js');//import triangle class
 
-//test case for class circle
+//Unit test case for class circle
 describe('Triangle', () => {
     it('given user choice of Logo shape color, Logo text, and Logo text color, should return logo svg file with ', () => {
         const triangle = new Triangle('green', 'SVG', 'white');

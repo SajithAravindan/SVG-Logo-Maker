@@ -1,6 +1,6 @@
-const Square = require('../lib/square.js');
+const Square = require('../lib/square.js');//import square class
 
-//test case for class circle
+//Unit test case for class circle
 describe('Square', () => {
     it('given user choice of Logo shape color, Logo text, and Logo text color, should return logo svg file with ', () => {
         const square = new Square('green', 'SVG', 'white');
