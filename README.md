@@ -34,13 +34,13 @@ GIVEN a command-line application that accepts user input
 
 ## Demo
 
-[![Watch the video](./Develop/img/demo.png)]()
+[![Watch the video](./imgs/demo.jpg)](https://drive.google.com/file/d/1hsdd6hvs_CGlespxabwmEO7dwQBoamns/view)
 
 ## Review
 
 GitHub Repository: https://github.com/SajithAravindan/SVG-Logo-Maker.git
 
-Demo Video Link: 
+Demo Video Link: https://drive.google.com/file/d/1hsdd6hvs_CGlespxabwmEO7dwQBoamns/view
 
 ## License
 - Please refer to the LICENSE in the repo. <a href="https://github.com/SajithAravindan/readme-generator-NJS/blob/main/LICENSE">(MIT License)</a>
