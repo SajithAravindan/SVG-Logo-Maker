@@ -10,7 +10,6 @@ AS a freelance web developer
 * I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 
-
 ## Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
@@ -28,7 +27,7 @@ GIVEN a command-line application that accepts user input
 * WHEN I have entered input for all the prompts
     THEN an SVG file is created named as `logo.svg`/`user input name`
     AND the output text "Success! Generated logo as svg file!" is printed in the command line
-* WHEN I open the `logo.svg` file in a browser
+* WHEN I open the `logo.svg`/`Userinputname.svg` file in a browser
     THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
